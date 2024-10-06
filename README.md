@@ -12,7 +12,7 @@
 npm install
 ```
 4. Fill up the config.json
-5. Start the bot using run.bat
+5. Start the bot
 
 ## ❓ Questions
 1. **How do I get the discord user token?**
