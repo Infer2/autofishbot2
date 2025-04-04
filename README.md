@@ -1,7 +1,5 @@
 ## ❕Disclaimer/Info
-- This is a temporary version until the final version of the bot will be released by [Joabo](https://github.com/thejoabo)
 - This is a discord self-bot (Using this might lead to your discord account getting disabled)
-- This bot does not have a realiable security system, do not over use this.
 - Captcha Bypass will not be added.
 
 ## ✨ Usage
