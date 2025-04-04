@@ -21,5 +21,3 @@ npm install
     **Toturial:**: [Read](https://turbofuture.com/internet/Discord-Channel-ID)
 ---
 **This bot might or not might not be supported for long.**
-
-**I will be moving to the newer project when Joabo releases, as of now we do not have a set date.**
