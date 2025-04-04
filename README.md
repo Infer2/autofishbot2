@@ -5,12 +5,12 @@
 ## ✨ Usage
 1. **Download Node.js:** [Click Here](https://nodejs.org/en/download/prebuilt-installer)
 2. Fork or download this repository
-3. **Install Libraries:**
+3. **run install.bat (or) Install Libraries:**
 ```
 npm install
 ```
-4. Fill up the config.json
-5. Start the bot
+4. Fill up the config.js
+5. Start the bot via start.bat
 
 ## ❓ Questions
 1. **How do I get the discord user token?**
